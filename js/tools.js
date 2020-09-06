@@ -477,6 +477,459 @@ const getIcCity = (codeMelli) => {
   if ('615' == e) return 'استان قزوین - شهر ابهر و خرمدره';
 };
 
-window.boomiTools={
-getIcCity
+/*********************************************************
+ * Validate Iran bank card number
+ *********************************************************
+ * @var input string
+ * @return boolean
+ */
+const cardNumber = (input) => {
+  if (/^\d{16}$/.test(input)) {
+
+    var sum = 0,
+      temp;
+
+    input = input.toString();
+
+    for (var i = 1; i <= 16; i++) {
+      temp = input.charAt(i - 1);
+      temp = i % 2 === 0 ? parseInt(temp) : parseInt(temp) * 2;
+      temp = temp > 9 ? temp - 9 : temp;
+      sum += temp;
+    }
+
+    return sum % 10 === 0;
+
+  }
+}
+
+/*********************************************************
+ * Validate Iran postal code
+ *********************************************************
+ * @var input string
+ * @return boolean
+ */
+const postalCode = (input) => /^(\d{5}-?\d{5})$/.test(input)
+
+/*********************************************************
+ * Validate sheba number
+ *********************************************************
+ * @var input string
+ * @return boolean
+ */
+const sheba = (input) => {
+
+  var ibanReplaceValues = [],
+    ibanReplaceChars = [],
+    tmpIBAN;
+
+  if (input) {
+
+    input = input.replace(/[\W_]+/, '');
+
+    if ((input.length < 4 || input.length > 34) || (!isNaN(input[0]) ||
+      !isNaN(input[1])) || (isNaN(input[2]) || isNaN(input[3]))) {
+      return false;
+    }
+
+    ibanReplaceChars = range('A', 'Z');
+
+    range(10, 35).forEach(function (tempvalue) {
+      ibanReplaceValues.push(tempvalue.toString());
+    });
+
+    tmpIBAN = input.substr(4, input.length - 4) + input.substr(0, 4);
+
+    ibanReplaceChars.forEach(function (value, index) {
+      for (var i = 0; i < tmpIBAN.length; i++) {
+        if (tmpIBAN[i] == value) {
+          tmpIBAN = tmpIBAN.replace(tmpIBAN[i], ibanReplaceValues[index]);
+        }
+      }
+    });
+
+    tmpValue = parseInt(tmpIBAN.substr(0, 1));
+
+    for (var i = 1; i < tmpIBAN.length; i++) {
+      tmpValue *= 10;
+
+      tmpValue += parseInt(tmpIBAN.substr(i, 1));
+
+      tmpValue %= 97;
+    }
+
+    if (tmpValue != 1) {
+      return false;
+    }
+
+    return true;
+
+  }
+
+  return false;
+
+}
+
+/*********************************************************
+ * Validate meli code number
+ *********************************************************
+ * @var input string
+ * @return boolean
+ */
+const melliCode = (input) => {
+
+  if (! /^\d{8,10}$/.test(input) || /^[0]{10}|[1]{10}|[2]{10}|[3]{10}|[4]{10}|[5]{10}|[6]{10}|[7]{10}|[8]{10}|[9]{10}$/.test(input)) {
+    return false;
+  }
+
+  var sub = 0,
+    control;
+
+  if (input.length == 8) {
+    input = '00' + input;
+  } else if (input.length == 9) {
+    input = '0' + input;
+  }
+
+  for (var i = 0; i <= 8; i++) {
+    sub = parseInt(sub) + (parseInt(input[i]) * (10 - i));
+  }
+
+  if ((parseInt(sub) % 11) < 2) {
+    control = (parseInt(sub) % 11);
+  } else {
+    control = 11 - (parseInt(sub) % 11);
+  }
+
+  if (input[9] == control) {
+    return true;
+  } else {
+    return false;
+  }
+
+}
+
+const banksHash = {
+  '010': {
+    nickname: 'central-bank',
+    name: 'Central Bank of Iran',
+    persianName: 'بانک مرکزی جمهوری اسلامی ایران',
+    code: '010',
+  },
+  '011': {
+    nickname: 'sanat-madan',
+    name: 'Sanat O Madan Bank',
+    persianName: 'بانک صنعت و معدن',
+    code: '011',
+  },
+  '012': {
+    nickname: 'mellat',
+    name: 'Mellat Bank',
+    persianName: 'بانک ملت',
+    code: '012',
+  },
+  '013': {
+    nickname: 'refah',
+    name: 'Refah Bank',
+    persianName: 'بانک رفاه کارگران',
+    code: '013',
+  },
+  '014': {
+    nickname: 'maskan',
+    name: 'Maskan Bank',
+    persianName: 'بانک مسکن',
+    code: '014',
+  },
+  '015': {
+    nickname: 'sepah',
+    name: 'Sepah Bank',
+    persianName: 'بانک سپه',
+    code: '015',
+  },
+  '016': {
+    nickname: 'keshavarzi',
+    name: 'Keshavarzi',
+    persianName: 'بانک کشاورزی',
+    code: '016',
+  },
+  '017': {
+    nickname: 'melli',
+    name: 'Melli',
+    persianName: 'بانک ملی ایران',
+    code: '017',
+  },
+  '018': {
+    nickname: 'tejarat',
+    name: 'Tejarat Bank',
+    persianName: 'بانک تجارت',
+    code: '018',
+  },
+  '019': {
+    nickname: 'saderat',
+    name: 'Saderat Bank',
+    persianName: 'بانک صادرات ایران',
+    code: '019',
+  },
+  '020': {
+    nickname: 'tosee-saderat',
+    name: 'Tose Saderat Bank',
+    persianName: 'بانک توسعه صادرات',
+    code: '020',
+  },
+  '021': {
+    nickname: 'postbank',
+    name: 'Post Bank',
+    persianName: 'پست بانک ایران',
+    code: '021',
+  },
+  '022': {
+    nickname: 'tose-taavon',
+    name: 'Tosee Taavon Bank',
+    persianName: 'بانک توسعه تعاون',
+    code: '022',
+  },
+  '051': {
+    nickname: 'tosee',
+    name: 'Tosee Bank',
+    persianName: 'موسسه اعتباری توسعه',
+    code: '051',
+  },
+  '052': {
+    nickname: 'ghavamin',
+    name: 'Ghavamin Bank',
+    persianName: 'بانک قوامین',
+    code: '052',
+  },
+  '053': {
+    nickname: 'karafarin',
+    name: 'Karafarin Bank',
+    persianName: 'بانک کارآفرین',
+    code: '053',
+  },
+  '054': {
+    nickname: 'parsian',
+    name: 'Parsian Bank',
+    persianName: 'بانک پارسیان',
+    code: '054',
+    process: function (str) {
+      str = str.substring(14);
+      var formatted =
+        '0' +
+        str.substr(0, 2) +
+        '-0' +
+        str.substr(2, 7) +
+        '-' +
+        str.substr(9, 3);
+      return {
+        normal: str,
+        formatted: formatted,
+      };
+    },
+  },
+  '055': {
+    nickname: 'eghtesad-novin',
+    name: 'Eghtesad Novin Bank',
+    persianName: 'بانک اقتصاد نوین',
+    code: '055',
+  },
+  '056': {
+    nickname: 'saman',
+    name: 'Saman Bank',
+    persianName: 'بانک سامان',
+    code: '056',
+  },
+  '057': {
+    nickname: 'pasargad',
+    name: 'Pasargad Bank',
+    persianName: 'بانک پاسارگاد',
+    code: '057',
+    process: function (str) {
+      str = str.substring(7);
+      while (str[0] === '0') {
+        str = str.substring(1);
+      }
+      str = str.substr(0, str.length - 2);
+      var formatted =
+        str.substr(0, 3) +
+        '-' +
+        str.substr(3, 3) +
+        '-' +
+        str.substr(6, 8) +
+        '-' +
+        str.substr(14, 1);
+      return {
+        normal: str,
+        formatted: formatted,
+      };
+    },
+  },
+  '058': {
+    nickname: 'sarmayeh',
+    name: 'Sarmayeh Bank',
+    persianName: 'بانک سرمایه',
+    code: '058',
+  },
+  '059': {
+    nickname: 'sina',
+    name: 'Sina Bank',
+    persianName: 'بانک سینا',
+    code: '059',
+  },
+  '060': {
+    nickname: 'mehr-iran',
+    name: 'Mehr Iran Bank',
+    persianName: 'بانک مهر ایران',
+    code: '060',
+  },
+  '061': {
+    nickname: 'shahr',
+    name: 'City Bank',
+    persianName: 'بانک شهر',
+    code: '061',
+    process: function (str) {
+      str = str.substring(7);
+      while (str[0] === '0') {
+        str = str.substring(1);
+      }
+      return {
+        normal: str,
+        formatted: str,
+      };
+    },
+  },
+  '062': {
+    nickname: 'ayandeh',
+    name: 'Ayandeh Bank',
+    persianName: 'بانک آینده',
+    code: '062',
+  },
+  '063': {
+    nickname: 'ansar',
+    name: 'Ansar Bank',
+    persianName: 'بانک انصار',
+    code: '063',
+  },
+  '064': {
+    nickname: 'gardeshgari',
+    name: 'Gardeshgari Bank',
+    persianName: 'بانک گردشگری',
+    code: '064',
+  },
+  '065': {
+    nickname: 'hekmat',
+    name: 'Hekmat Iranian Bank',
+    persianName: 'بانک حکمت ایرانیان',
+    code: '065',
+  },
+  '066': {
+    nickname: 'dey',
+    name: 'Dey Bank',
+    persianName: 'بانک دی',
+    code: '066',
+  },
+  '069': {
+    nickname: 'iran-zamin',
+    name: 'Iran Zamin Bank',
+    persianName: 'بانک ایران زمین',
+    code: '069',
+  },
+  '070': {
+    nickname: 'resalat',
+    name: 'Resalat Bank',
+    persianName: 'بانک قرض الحسنه رسالت',
+    code: '070',
+  },
+  '073': {
+    nickname: 'kosar',
+    name: 'Kosar Bank',
+    persianName: 'بانک کوثر',
+    code: '073',
+  },
+  '075': {
+    nickname: 'melall',
+    name: 'Melall Bank',
+    persianName: 'بانک ملل',
+    code: '075',
+  },
+  '078': {
+    nickname: 'khavar-mianeh',
+    name: 'Melall Bank',
+    persianName: 'بانک خاورمیانه',
+    code: '078',
+  },
+  '080': {
+    nickname: 'noor',
+    name: 'Noor Bank',
+    persianName: 'بانک نور',
+    code: '080',
+  },
+  '090': {
+    nickname: 'mehr-iran',
+    name: 'Mehr Iran Bank',
+    persianName: 'بانک مهر ایران',
+    code: '090',
+  },
+  '095': {
+    nickname: 'iran-venezuela',
+    name: 'Iran and Venezuela Bank',
+    persianName: 'بانک ایران و ونزوئلا',
+    code: '095',
+  },
+};
+
+
+function iso7064Mod97_10(iban) {
+  var remainder = iban,
+    block;
+  while (remainder.length > 2) {
+    block = remainder.slice(0, 9);
+    remainder = (parseInt(block, 10) % 97) + remainder.slice(block.length);
+  }
+  return parseInt(remainder, 10) % 97;
+}
+
+const validSheba = function (str) {
+  if (!str || typeof str != "string") return;
+  if (!str.startsWith("IR")) str = "IR" + str;
+  if (str.length !== 26) {
+    return false;
+  }
+  if (!/IR[0-9]{24}/.test(str)) {
+    return false;
+  }
+  var newStr = str.substr(4);
+  var d1 = str.charCodeAt(0) - 65 + 10;
+  var d2 = str.charCodeAt(1) - 65 + 10;
+  newStr += d1.toString() + d2.toString() + str.substr(2, 2);
+
+  var remainder = iso7064Mod97_10(newStr);
+  if (remainder !== 1) {
+    return false;
+  }
+  return true;
+};
+const getSheba = function (str) {
+  if (!str || typeof str != "string") return;
+  if (!str.startsWith("IR")) str = "IR" + str;
+  var code = str.substr(4, 3);
+  if (!banksHash[code]) {
+    return false;
+  }
+
+  var bank = banksHash[code];
+  var result = {
+    nickname: bank.nickname,
+    name: bank.name,
+    persianName: bank.persianName,
+    code: bank.code
+  };
+  if (bank.process) {
+    var data = bank.process(str);
+    result.accountNumber = data.normal;
+    result.formattedAccountNumber = data.formatted;
+  }
+  return result;
+};
+window.boomiTools = {
+  getIcCity, melliCode, sheba, postalCode, cardNumber, getSheba, validSheba
 }
