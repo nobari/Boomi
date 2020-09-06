@@ -84,6 +84,6 @@ function toEnglish(input = "") {
   }
   return replacePersianToEnglish(String(input));
 }
-window.boomiTools = {
+window.boomiBasics = {
   toPersian, toEnglish
 }
