@@ -1,5 +1,4 @@
-exports.tt1 = function(name) {
-
+const test=(name)=>{
 	return "salam"+name;
-
 }
+window.boomiTools={test}
