@@ -1,0 +1,19 @@
+{
+  "name": "nobari",
+  "version": "1.0.0",
+  "description": "To be used by Sevenapp.co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Sevenapp.co\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nobari/Boomi.git"
+  },
+  "author": "sevenapp.co",
+  "license": "sevenapp.co",
+  "bugs": {
+    "url": "https://github.com/nobari/Boomi/issues"
+  },
+  "homepage": "https://github.com/nobari/Boomi#readme"
+}
