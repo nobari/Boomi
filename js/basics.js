@@ -13,8 +13,6 @@ function replaceArabicToPersian(str) {
     ي: 'ی',
     ى: 'ی',
     ك: 'ک',
-    '‍': '',
-    '‌': '',
     '٠': '۰',
     '١': '۱',
     '٢': '۲',
