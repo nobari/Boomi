@@ -1,6 +1,6 @@
 {
   "name": "nobari",
-  "version": "1.0.0",
+  "version": "1.1.7",
   "description": "To be used by Sevenapp.co",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/nobari/Boomi/issues"
   },
-  "homepage": "https://github.com/nobari/Boomi#readme"
+  "keywords": [
+    "platform",
+    "mobile",
+    "web component",
+    "component",
+    "custom element",
+    "material design",
+    "pwa",
+    "smart",
+    "ios",
+    "android"
+  ],
+  "homepage": "https://sevenapp.co"
 }

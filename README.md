@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-    :tropical_drink::rice::ramen::egg::bread::doughnut::custard::ice_cream::shaved_ice::cake::cookie::chocolate_bar::candy::lollipop::honey_pot::apple::green_apple::tangerine::lemon::cherries::grapes::watermelon::strawberry::peach::melon::banana::pear::pineapple::sweet_potato::eggplant::tomato::corn:
+    🍹🍚🍜🥚🍞🍩🍮🍨🍧🍰🍪🍫🍬🍭🍯🍎🍏🍊🍋🍒🍇🍉🍓🍑🍈🍌🍐🍍🍠🍆🍅🌽
 </div>
 
 <div align="center">
