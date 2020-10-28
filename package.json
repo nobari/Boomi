@@ -1,10 +1,10 @@
 {
   "name": "nobari",
-  "version": "1.1.9",
-  "description": "To be used by Sevenapp.co",
+  "version": "1.2.0",
+  "description": "Talented => mailto:jobs@sevenapp.co",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Sevenapp.co\" && exit 1"
+    "test": "echo \"https://sevenapp.co\" && exit 1"
   },
   "repository": {
     "type": "git",

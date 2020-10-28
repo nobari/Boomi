@@ -1,0 +1,54 @@
+<svg xml:space="preserve" viewBox="0 0 100 100" y="0" x="0" xmlns="http://www.w3.org/2000/svg" id="Layer_1"
+    version="1.1" style="height: 100%; width: 100%;" width="128px" height="128px">
+    <g>
+     <defs>
+            <style>
+                .feature-anim {
+                    transform-origin: 50px 50px;
+                    animation: 2s linear -0.740741s infinite normal forwards running anim-feature-back;
+                }
+                .feature-anim2 {
+                    transform-origin: 50px 50px;
+                    animation: 1s linear -1.740741s infinite normal forwards running anim-feature-back;
+                }
+
+                @keyframes anim-feature-back {
+                    0% {
+                        transform: scale(0.9);
+                    }
+
+                    51% {
+                        transform: scale(1.1);
+                    }
+
+                    100% {
+                        transform: scale(0.9);
+                    }
+                }
+            </style>
+        </defs>
+        <g class="feature-anim">
+            <g >
+                <g class="feature-anim">
+                    <path fill="#c33837"
+                        d="M42.7 20.6L11.5 69.7c-1.8 2.7-2 6.1-.5 9 1.5 2.9 4.5 4.6 7.7 4.6H50V16.7c-2.9 0-5.6 1.4-7.3 3.9z"
+                        style="fill: rgb(195, 56, 55);"></path>
+                </g>
+            </g>
+            <g >
+                <g class="feature-anim">
+                    <path fill="#e15c64"
+                        d="M89 78.7c1.5-2.9 1.4-6.3-.4-9L57.2 20.6c-1.6-2.4-4.3-3.9-7.2-3.9v66.6h31.3c3.2 0 6.1-1.8 7.7-4.6z"
+                        style="fill: rgb(225, 92, 100);"></path>
+                </g>
+            </g>
+            <g >
+                <g class="feature-anim2">
+                    <path
+                        d="M64.5 50.3l-5.8-5.8-8.7 8.7-8.7-8.7-5.8 5.8 8.7 8.7-8.7 8.7 5.8 5.8 8.7-8.7 8.7 8.7 5.8-5.8-8.7-8.7z"
+                        fill="#f4e6c8" style="fill: rgb(244, 230, 200);"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

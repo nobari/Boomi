@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 100 100" y="0" x="0" version="1.1" class="feature-img">
+    <g>
+        <defs>
+            <style>
+                .feature-anim {
+                    transform-origin: 50px 50px;
+                    animation: 2s linear -0.740741s infinite normal forwards running anim-feature-back;
+                }
+
+                @keyframes anim-feature-back {
+                    0% {
+                        transform: scale(0.9);
+                    }
+
+                    51% {
+                        transform: scale(1.07);
+                    }
+
+                    100% {
+                        transform: scale(0.9);
+                    }
+                }
+            </style>
+        </defs>
+        <g class="feature-anim">
+            <g class="ldl-layer">
+                <g class="feature-anim" style="transform: scale(0.91); transform-origin: 50px 50px; animation: 1.11111s linear -0.740741s infinite normal forwards running breath-1baa8ea7-5b44-41b7-88a3-a7f710b884f3;">
+                    <path fill="#a0c8d7" d="M50 10v80c9-2.3 21.6-10.7 28.3-22.4C85 56 85.6 41.1 85.6 25.7 67.8 25.7 50 10 50 10z" style="fill: #4CAF50;"/>
+                    <animateTransform attributeName="transform" type="scale" keyTimes="0;.5,1" values=".9;1.02;.9" dur="1.4925373134328357s" repeatCount="indefinite">
+                    </animateTransform>
+                </g>
+            </g>
+            <g class="ldl-layer">
+                <g class="feature-anim" style="transform: scale(0.91); transform-origin: 50px 50px; animation: 1.11111s linear -0.925926s infinite normal forwards running breath-1baa8ea7-5b44-41b7-88a3-a7f710b884f3;">
+                    <path fill="#77a4bd" d="M14.4 25.7c0 15.4.1 30.4 6.7 42.1C27.8 79.6 40.9 88 50 90V10S32.2 25.7 14.4 25.7z" style="fill: #6ac76d;"/>
+                </g>
+            </g>
+            <g class="ldl-layer">
+                <g class="feature-anim">
+                    <g>
+                        <g class="ldl-layer">
+                            <g class="feature-anim" style="transform: scale(0.91); transform-origin: 50px 50px; animation: 1.11111s linear -1.11111s infinite normal forwards running breath-1baa8ea7-5b44-41b7-88a3-a7f710b884f3;">
+                                <path d="M45.6 70.7L26.5 51.5l6.1-6.1 13 12.9 21.8-21.7 6.1 6.1z" fill="#f4e6c8" style="fill: rgb(255, 255, 255);"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
