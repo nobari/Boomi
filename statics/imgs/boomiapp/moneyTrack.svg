@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="moneyTrack.svg"
+   xml:space="preserve"
+   style="enable-background:new 0 0 480 480;"
+   viewBox="0 0 480 480"
+   y="0px"
+   x="0px"
+   id="Capa_1"
+   version="1.1"><metadata
+   id="metadata12256"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs12254" /><sodipodi:namedview
+   inkscape:current-layer="g12199"
+   inkscape:window-maximized="0"
+   inkscape:window-y="0"
+   inkscape:window-x="0"
+   inkscape:cy="239.22713"
+   inkscape:cx="287.91066"
+   inkscape:zoom="0.86444275"
+   showgrid="false"
+   id="namedview12252"
+   inkscape:window-height="768"
+   inkscape:window-width="1366"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<g
+   id="g12199">
+	<path
+   id="path12191"
+   d="M80,48H16C7.168,48,0,55.168,0,64v64c0,8.832,7.168,16,16,16s16-7.168,16-16V80h48   c8.832,0,16-7.168,16-16S88.832,48,80,48z"
+   style="fill:#80c904;fill-opacity:1" />
+	<path
+   id="path12193"
+   d="M464,336c-8.832,0-16,7.168-16,16v48h-48c-8.832,0-16,7.168-16,16s7.168,16,16,16h64   c8.832,0,16-7.168,16-16v-64C480,343.168,472.832,336,464,336z"
+   style="fill:#80c904;fill-opacity:1" />
+	<path
+   id="path12195"
+   d="M464,48h-64c-8.832,0-16,7.168-16,16s7.168,16,16,16h48v48c0,8.832,7.168,16,16,16s16-7.168,16-16   V64C480,55.168,472.832,48,464,48z"
+   style="fill:#80c904;fill-opacity:1" />
+	<path
+   id="path12197"
+   d="M80,400H32v-48c0-8.832-7.168-16-16-16s-16,7.168-16,16v64c0,8.832,7.168,16,16,16h64   c8.832,0,16-7.168,16-16S88.832,400,80,400z"
+   style="fill:#80c904;fill-opacity:1" />
+</g>
+<g
+   id="g12219">
+	<rect
+   id="rect12201"
+   height="256"
+   width="32"
+   style="fill:#455A64;"
+   y="112"
+   x="64" />
+	<rect
+   id="rect12203"
+   height="192"
+   width="32"
+   style="fill:#455A64;"
+   y="112"
+   x="128" />
+	<rect
+   id="rect12205"
+   height="192"
+   width="32"
+   style="fill:#455A64;"
+   y="112"
+   x="192" />
+	<rect
+   id="rect12207"
+   height="256"
+   width="32"
+   style="fill:#455A64;"
+   y="112"
+   x="256" />
+	<rect
+   id="rect12209"
+   height="192"
+   width="32"
+   style="fill:#455A64;"
+   y="112"
+   x="320" />
+	<rect
+   id="rect12211"
+   height="256"
+   width="32"
+   style="fill:#455A64;"
+   y="112"
+   x="384" />
+	<rect
+   id="rect12213"
+   height="32"
+   width="32"
+   style="fill:#455A64;"
+   y="336"
+   x="128" />
+	<rect
+   id="rect12215"
+   height="32"
+   width="32"
+   style="fill:#455A64;"
+   y="336"
+   x="192" />
+	<rect
+   id="rect12217"
+   height="32"
+   width="32"
+   style="fill:#455A64;"
+   y="336"
+   x="320" />
+</g>
+<g
+   id="g12221">
+</g>
+<g
+   id="g12223">
+</g>
+<g
+   id="g12225">
+</g>
+<g
+   id="g12227">
+</g>
+<g
+   id="g12229">
+</g>
+<g
+   id="g12231">
+</g>
+<g
+   id="g12233">
+</g>
+<g
+   id="g12235">
+</g>
+<g
+   id="g12237">
+</g>
+<g
+   id="g12239">
+</g>
+<g
+   id="g12241">
+</g>
+<g
+   id="g12243">
+</g>
+<g
+   id="g12245">
+</g>
+<g
+   id="g12247">
+</g>
+<g
+   id="g12249">
+</g>
+</svg>

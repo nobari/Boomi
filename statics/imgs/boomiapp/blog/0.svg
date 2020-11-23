@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="1process.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   id="svg2025"
+   version="1.1"
+   viewBox="0 0 210 40"
+   height="40mm"
+   width="210mm">
+  <defs
+     id="defs2019">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1868">
+      <stop
+         style="stop-color:#9a4121;stop-opacity:1"
+         offset="0"
+         id="stop1864" />
+      <stop
+         style="stop-color:#80c904;stop-opacity:1"
+         offset="1"
+         id="stop1866" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1862">
+      <stop
+         style="stop-color:#9a4121;stop-opacity:1"
+         offset="0"
+         id="stop1858" />
+      <stop
+         style="stop-color:#80c904;stop-opacity:1"
+         offset="1"
+         id="stop1860" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1856">
+      <stop
+         style="stop-color:#9a4121;stop-opacity:1"
+         offset="0"
+         id="stop1852" />
+      <stop
+         style="stop-color:#80c904;stop-opacity:1"
+         offset="1"
+         id="stop1854" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1850">
+      <stop
+         style="stop-color:#9a4121;stop-opacity:1"
+         offset="0"
+         id="stop1846" />
+      <stop
+         style="stop-color:#80c904;stop-opacity:1"
+         offset="1"
+         id="stop1848" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1844">
+      <stop
+         style="stop-color:#9a4121;stop-opacity:1"
+         offset="0"
+         id="stop1840" />
+      <stop
+         style="stop-color:#80c904;stop-opacity:1"
+         offset="1"
+         id="stop1842" />
+    </linearGradient>
+    <rect
+       x="206.32851"
+       y="19.564075"
+       width="20.284216"
+       height="15.768703"
+       id="rect1016" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="28.357479"
+       x2="1068.6667"
+       y1="84.283546"
+       x1="1016.5753"
+       id="linearGradient5162"
+       xlink:href="#linearGradient1844"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="89.041"
+       x2="767.27631"
+       y1="9.6884899"
+       x1="691.5307"
+       id="linearGradient5176"
+       xlink:href="#linearGradient1850"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="57.972076"
+       x2="426.41565"
+       y1="57.972069"
+       x1="329.34625"
+       id="linearGradient5184"
+       xlink:href="#linearGradient1856"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="41.150799"
+       x2="223.59483"
+       y1="87.220932"
+       x1="164.69696"
+       id="linearGradient5192"
+       xlink:href="#linearGradient1862"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="55.0303"
+       x2="80.984222"
+       y1="51.008354"
+       x1="-21.918943"
+       id="linearGradient5200"
+       xlink:href="#linearGradient1868"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="723"
+     inkscape:window-width="1366"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="108.43326"
+     inkscape:cx="394.07366"
+     inkscape:zoom="0.88465146"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata2022">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="matrix(0.19043242,0,0,0.19043242,2.1997196,-0.48004601)"
+       id="svg_7"
+       stroke="null">
+      <path
+         d="m 1071.9224,21.36672 h -78.13706 v 83.88911 h 78.13706 z m -59.6121,104.86139 8.9858,17.4769 z"
+         fill="none"
+         id="svg_5"
+         stroke="null" />
+      <path
+         style="fill:url(#linearGradient5162);fill-opacity:1"
+         d="m 1036.1096,52.82513 h -6.5114 V 42.339 h -9.7672 v -6.99077 h 9.7672 V 24.8621 h 6.5114 v 10.48613 h 9.7671 V 42.339 h -9.7671 z m 13.0228,31.45842 c 3.5813,0 6.4789,3.14584 6.4789,6.99076 0,3.84492 -2.8976,6.99076 -6.4789,6.99076 -3.5813,0 -6.5114,-3.14584 -6.5114,-6.99076 0,-3.84492 2.9301,-6.99076 6.5114,-6.99076 z m -32.5571,0 c 3.5813,0 6.4789,3.14584 6.4789,6.99076 0,3.84492 -2.8976,6.99076 -6.4789,6.99076 -3.5812,0 -6.5114,-3.14584 -6.5114,-6.99076 0,-3.84492 2.9301,-6.99076 6.5114,-6.99076 z m 32.0036,-11.35998 -0.098,-0.41945 -2.9302,-5.69747 h -24.255 c -2.4418,0 -4.5906,-1.4331 -5.6975,-3.60024 l -12.567,-24.50261 5.6649,-3.35556 h 0.033 l 3.5812,6.99076 8.9858,17.47689 h 22.8551 l 0.4232,-0.94375 7.2928,-16.53314 3.0929,-6.99076 3.0604,-6.99076 h 10.6462 v 6.99076 h -6.5114 l -11.7206,26.52993 4.3952,8.56368 c 0.5209,0.9787 0.8139,2.13218 0.8139,3.35556 0,3.84492 -2.9301,6.99076 -6.5114,6.99076 h -39.0685 v -6.99076 h 37.7011 c 0.4233,0 0.8139,-0.38449 0.8139,-0.87384 z"
+         id="svg_6"
+         stroke="null" />
+    </g>
+    <g
+       transform="matrix(0.19043242,0,0,0.19043242,15.910852,-0.48004601)"
+       stroke="null"
+       id="svg_27">
+      <path
+         stroke="null"
+         d="M 691.53073,9.68849 H 778.0971 V 96.25486 H 691.53073 Z"
+         fill="none"
+         id="svg_25" />
+      <path
+         style="fill:url(#linearGradient5176);fill-opacity:1"
+         stroke="null"
+         d="m 756.45551,71.00634 h -43.28319 v -7.21386 h 43.28319 z m 0,-14.42773 h -43.28319 v -7.21386 h 43.28319 z m 0,-14.42773 h -43.28319 v -7.21386 h 43.28319 z m -54.10399,46.89012 5.4104,-5.4104 5.4104,5.4104 5.4104,-5.4104 5.4104,5.4104 5.41039,-5.4104 5.4104,5.4104 5.4104,-5.4104 5.4104,5.4104 5.4104,-5.4104 5.41039,5.4104 5.4104,-5.4104 5.4104,5.4104 V 16.90236 l -5.4104,5.41039 -5.4104,-5.41039 -5.41039,5.41039 -5.4104,-5.41039 -5.4104,5.41039 -5.4104,-5.41039 -5.4104,5.41039 -5.41039,-5.41039 -5.4104,5.41039 -5.4104,-5.41039 -5.4104,5.41039 -5.4104,-5.41039 z"
+         id="svg_26" />
+    </g>
+    <g
+       transform="matrix(0.19043242,0,0,0.19043242,33.430636,-0.48004601)"
+       id="svg_39"
+       stroke="null">
+      <path
+         d="M 430.82791,1.68783 H 324.93402 v 112.56848 h 105.89389 z"
+         fill="none"
+         id="svg_37"
+         stroke="null" />
+      <path
+         style="fill:url(#linearGradient5184);fill-opacity:1"
+         d="m 342.583,39.21066 h 13.23673 V 20.44925 h 61.77143 c 4.85347,0 8.82449,4.22131 8.82449,9.3807 v 51.59389 h -8.82449 c 0,7.78599 -5.91241,14.07106 -13.23674,14.07106 -7.32433,0 -13.23673,-6.28507 -13.23673,-14.07106 h -26.47346 c 0,7.78599 -5.91242,14.07106 -13.23674,14.07106 -7.32432,0 -13.23673,-6.28507 -13.23673,-14.07106 h -8.8245 V 57.97207 Z m 61.77142,49.24871 c 3.66217,0 6.61837,-3.14254 6.61837,-7.03553 0,-3.89299 -2.9562,-7.03553 -6.61837,-7.03553 -3.66217,0 -6.61836,3.14254 -6.61836,7.03553 0,3.89299 2.9562,7.03553 6.61836,7.03553 z m -59.56531,-42.21318 -8.64799,11.72588 h 19.67861 V 46.24619 Z m 6.61837,42.21318 c 3.66217,0 6.61837,-3.14254 6.61837,-7.03553 0,-3.89299 -2.9562,-7.03553 -6.61837,-7.03553 -3.66217,0 -6.61837,3.14254 -6.61837,7.03553 0,3.89299 2.95621,7.03553 6.61837,7.03553 z"
+         id="svg_38"
+         stroke="null" />
+    </g>
+    <g
+       transform="matrix(0.19043242,0,0,0.19043242,16.291718,-0.48004601)"
+       stroke="null"
+       id="svg_68">
+      <path
+         stroke="null"
+         d="M 254.1571,-0.31232 H 149.37216 V 110.256 H 254.1571 Z"
+         fill="none"
+         id="svg_49" />
+      <path
+         style="fill:url(#linearGradient5192);fill-opacity:1"
+         stroke="null"
+         d="m 186.4835,64.18587 h 3.44916 l 1.22251,-1.2439 c -4.27873,-5.25199 -6.85469,-12.07037 -6.85469,-19.48766 0,-16.53918 12.70518,-29.94559 28.37925,-29.94559 15.67408,0 28.37926,13.40641 28.37926,29.94559 0,16.53918 -12.70517,29.94558 -28.37926,29.94558 -7.02932,0 -13.49106,-2.71813 -18.46834,-7.23301 l -1.17884,1.28997 v 3.63954 l -21.83018,22.98899 -6.50541,-6.86445 z m 26.19623,0 c 10.87145,0 19.64718,-9.2601 19.64718,-20.73156 0,-11.47146 -8.77573,-20.73156 -19.64718,-20.73156 -10.87144,0 -19.64717,9.2601 -19.64717,20.73156 0,11.47146 8.77574,20.73156 19.64717,20.73156 z"
+         id="svg_50" />
+      <path
+         stroke="null"
+         d="m 201.76464,45.75782 h 8.73207 v 9.21402 h 4.36604 v -9.21403 h 8.73208 V 41.1508 h -8.73208 v -9.21402 h -4.36604 v 9.21402 h -8.73207 v 4.60701 z"
+         id="svg_51"
+         style="fill:#9a4121;fill-opacity:1" />
+    </g>
+    <g
+       transform="matrix(0.19043242,0,0,0.19043242,2.1997196,-0.48004601)"
+       id="svg_17"
+       stroke="null">
+      <path
+         id="svg_15"
+         fill="none"
+         d="M -2.71499,109.11373 H 88.59324 V 9.26739 H -2.71499 Z"
+         stroke="null" />
+      <path
+         style="fill:url(#linearGradient5200);fill-opacity:1"
+         id="svg_16"
+         d="M 80.98422,92.47267 H 73.3752 c -2.09248,0 -3.8045,-1.87211 -3.8045,-4.16026 V 50.87003 c 0,-2.28814 1.71202,-4.16026 3.8045,-4.16026 h 7.60902 V 92.47268 Z M 5.54079,62.85159 C 5.12229,61.81153 4.89403,60.68826 4.89403,59.52338 V 55.0303 c 0,-4.5763 3.42405,-8.32053 7.60902,-8.32053 h 20.9248 L 29.92771,27.36454 c -0.19024,-0.91526 -0.0761,-1.91372 0.30436,-2.74578 0.87503,-1.87212 1.97833,-3.57782 3.34796,-5.07552 l 1.75007,-1.95532 24.38692,26.66729 c 1.44571,1.5809 2.24465,3.70264 2.24465,5.90758 v 32.61647 c 0,5.32514 -3.99472,9.69342 -8.90255,9.69342 H 22.20455 c -2.66315,0 -5.17414,-1.5393 -6.54376,-4.03546 z"
+         stroke="null" />
+    </g>
+    <g
+       style="fill:#9a4121;fill-opacity:1"
+       transform="matrix(0.19043242,0,0,0.19043242,-5.4175784,-0.48004601)"
+       stroke="null"
+       id="svg_185">
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_154">
+        <polygon
+           style="fill:#9a4121;fill-opacity:1"
+           stroke="null"
+           fill="#d7d8da"
+           id="svg_155"
+           points="1734.1695,-269.72147 1762.4534,-298.00647 1691.0364,-369.42346 1762.4534,-440.84045 1734.1695,-469.12546 1634.4675,-369.42346 " />
+        <polygon
+           style="fill:#9a4121;fill-opacity:1"
+           stroke="null"
+           fill="#d7d8da"
+           id="svg_156"
+           points="1826.8655,-469.12546 1727.1625,-369.42346 1826.8655,-269.72147 1855.1495,-298.00647 1783.7315,-369.42346 1855.1495,-440.84045 " />
+      </g>
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_157" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_158" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_159" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_160" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_161" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_162" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_163" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_168" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_169" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_170" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_171" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_172" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_173" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_174" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_184" />
+    </g>
+    <g
+       style="fill:#9a4121;fill-opacity:1"
+       transform="matrix(0.19043242,0,0,0.19043242,-5.4175784,-0.48004601)"
+       stroke="null"
+       id="svg_224">
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_208">
+        <polygon
+           style="fill:#9a4121;fill-opacity:1"
+           stroke="null"
+           fill="#d7d8da"
+           id="svg_206"
+           points="1545.9991,-269.72147 1574.283,-298.00647 1502.866,-369.42346 1574.283,-440.84045 1545.9991,-469.12546 1446.297,-369.42346 " />
+        <polygon
+           style="fill:#9a4121;fill-opacity:1"
+           stroke="null"
+           fill="#d7d8da"
+           id="svg_207"
+           points="1638.6951,-469.12546 1538.9921,-369.42346 1638.6951,-269.72147 1666.979,-298.00647 1595.5611,-369.42346 1666.979,-440.84045 " />
+      </g>
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_209" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_210" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_211" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_212" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_213" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_214" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_215" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_216" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_217" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_218" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_219" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_220" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_221" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_222" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_223" />
+    </g>
+    <g
+       style="fill:#9a4121;fill-opacity:1"
+       transform="matrix(0.19043242,0,0,0.19043242,42.571393,-0.48004601)"
+       stroke="null"
+       id="svg_319">
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_303">
+        <polygon
+           style="fill:#9a4121;fill-opacity:1"
+           stroke="null"
+           fill="#d7d8da"
+           id="svg_301"
+           points="-1523.8108,-298.00647 -1595.2275,-369.42346 -1523.8108,-440.84045 -1552.0946,-469.12546 -1651.7965,-369.42346 -1552.0946,-269.72147 " />
+        <polygon
+           style="fill:#9a4121;fill-opacity:1"
+           stroke="null"
+           fill="#d7d8da"
+           id="svg_302"
+           points="-1559.1015,-369.42346 -1459.3982,-269.72147 -1431.1142,-298.00647 -1502.5321,-369.42346 -1431.1142,-440.84045 -1459.3982,-469.12546 " />
+      </g>
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_304" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_305" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_306" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_307" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_308" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_309" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_310" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_311" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_312" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_313" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_314" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_315" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_316" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_317" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_318" />
+    </g>
+    <g
+       style="fill:#9a4121;fill-opacity:1"
+       transform="matrix(0.19043242,0,0,0.19043242,42.571393,-0.48004601)"
+       stroke="null"
+       id="svg_338">
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_322">
+        <polygon
+           style="fill:#9a4121;fill-opacity:1"
+           stroke="null"
+           fill="#d7d8da"
+           id="svg_320"
+           points="-1711.9812,-298.00647 -1783.3977,-369.42346 -1711.9812,-440.84045 -1740.265,-469.12546 -1839.9669,-369.42346 -1740.265,-269.72147 " />
+        <polygon
+           style="fill:#9a4121;fill-opacity:1"
+           stroke="null"
+           fill="#d7d8da"
+           id="svg_321"
+           points="-1747.2717,-369.42346 -1647.5689,-269.72147 -1619.2848,-298.00647 -1690.7028,-369.42346 -1619.2848,-440.84045 -1647.5689,-469.12546 " />
+      </g>
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_323" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_324" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_325" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_326" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_327" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_328" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_329" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_330" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_331" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_332" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_333" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_334" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_335" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_336" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_337" />
+    </g>
+    <g
+       style="fill:#9a4121;fill-opacity:1"
+       transform="matrix(0.19043242,0,0,0.19043242,25.432475,-0.48004601)"
+       stroke="null"
+       id="svg_357">
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_341">
+        <polygon
+           style="fill:#9a4121;fill-opacity:1"
+           stroke="null"
+           fill="#d7d8da"
+           id="svg_339"
+           points="-2948.8294,-369.42346 -2849.1273,-269.72147 -2820.8433,-298.00647 -2892.2603,-369.42346 -2820.8433,-440.84045 -2849.1273,-469.12546 " />
+        <polygon
+           style="fill:#9a4121;fill-opacity:1"
+           stroke="null"
+           fill="#d7d8da"
+           id="svg_340"
+           points="-2728.1466,-440.84045 -2756.4307,-469.12546 -2856.1341,-369.42346 -2756.4307,-269.72147 -2728.1466,-298.00647 -2799.5645,-369.42346 " />
+      </g>
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_342" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_343" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_344" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_345" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_346" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_347" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_348" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_349" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_350" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_351" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_352" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_353" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_354" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_355" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_356" />
+    </g>
+    <g
+       style="fill:#9a4121;fill-opacity:1"
+       transform="matrix(0.19043242,0,0,0.19043242,25.432475,-0.48004601)"
+       stroke="null"
+       id="svg_376">
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_360">
+        <polygon
+           style="fill:#9a4121;fill-opacity:1"
+           stroke="null"
+           fill="#d7d8da"
+           id="svg_358"
+           points="-3137.0001,-369.42346 -3037.2979,-269.72147 -3009.0142,-298.00647 -3080.4307,-369.42346 -3009.0142,-440.84045 -3037.2979,-469.12546 " />
+        <polygon
+           style="fill:#9a4121;fill-opacity:1"
+           stroke="null"
+           fill="#d7d8da"
+           id="svg_359"
+           points="-2916.3175,-440.84045 -2944.6019,-469.12546 -3044.3048,-369.42346 -2944.6019,-269.72147 -2916.3175,-298.00647 -2987.7357,-369.42346 " />
+      </g>
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_361" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_362" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_363" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_364" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_365" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_366" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_367" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_368" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_369" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_370" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_371" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_372" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_373" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_374" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_375" />
+    </g>
+    <g
+       style="fill:#9a4121;fill-opacity:1"
+       transform="matrix(0.19043242,0,0,0.19043242,9.0552852,-0.48004601)"
+       stroke="null"
+       id="svg_395">
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_379">
+        <polygon
+           style="fill:#9a4121;fill-opacity:1"
+           stroke="null"
+           fill="#d7d8da"
+           id="svg_377"
+           points="-3877.3464,-269.72147 -3849.0624,-298.00647 -3920.4794,-369.42346 -3849.0624,-440.84045 -3877.3464,-469.12546 -3977.0485,-369.42346 " />
+        <polygon
+           style="fill:#9a4121;fill-opacity:1"
+           stroke="null"
+           fill="#d7d8da"
+           id="svg_378"
+           points="-3784.6498,-469.12546 -3884.3532,-369.42346 -3784.6498,-269.72147 -3756.3656,-298.00647 -3827.7836,-369.42346 -3756.3656,-440.84045 " />
+      </g>
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_380" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_381" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_382" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_383" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_384" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_385" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_386" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_387" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_388" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_389" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_390" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_391" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_392" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_393" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_394" />
+    </g>
+    <g
+       style="fill:#9a4121;fill-opacity:1"
+       transform="matrix(0.19043242,0,0,0.19043242,9.0552852,-0.48004601)"
+       stroke="null"
+       id="svg_414">
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_398">
+        <polygon
+           style="fill:#9a4121;fill-opacity:1"
+           stroke="null"
+           fill="#d7d8da"
+           id="svg_396"
+           points="-4065.519,-269.72147 -4037.2348,-298.00647 -4108.652,-369.42346 -4037.2348,-440.84045 -4065.519,-469.12546 -4165.2204,-369.42346 " />
+        <polygon
+           style="fill:#9a4121;fill-opacity:1"
+           stroke="null"
+           fill="#d7d8da"
+           id="svg_397"
+           points="-3972.821,-469.12546 -4072.526,-369.42346 -3972.821,-269.72147 -3944.5365,-298.00647 -4015.9552,-369.42346 -3944.5365,-440.84045 " />
+      </g>
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_399" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_400" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_401" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_402" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_403" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_404" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_405" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_406" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_407" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_408" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_409" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_410" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_411" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_412" />
+      <g
+         style="fill:#9a4121;fill-opacity:1"
+         stroke="null"
+         transform="matrix(0.14863979,0,0,0.14863979,716.43495,113.13436)"
+         id="svg_413" />
+    </g>
+    <text
+       xml:space="preserve"
+       id="text1014"
+       style="font-size:10.58329999999999949px;line-height:1.25;font-family:IRANSans;-inkscape-font-specification:IRANSans;text-align:end;white-space:pre;shape-inside:url(#rect1016);"
+       x="11.163404"
+       y="0"
+       transform="translate(-20.324165,2.8141152)" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:IRANSans;-inkscape-font-specification:IRANSans;text-align:end;text-anchor:end;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+       x="197.61079"
+       y="28.601488"
+       id="text1022"><tspan
+         sodipodi:role="line"
+         id="tspan1020"
+         x="197.61079"
+         y="28.601488"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583">سفارش‌</tspan><tspan
+         sodipodi:role="line"
+         x="197.61079"
+         y="35.657043"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+         id="tspan1024" /></text>
+    <text
+       id="text1022-0"
+       y="28.934168"
+       x="153.39227"
+       style="font-size:5.64444px;line-height:1.25;font-family:IRANSans;-inkscape-font-specification:IRANSans;text-align:end;text-anchor:end;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+         y="28.934168"
+         x="153.39227"
+         id="tspan1020-3"
+         sodipodi:role="line">فاکتور</tspan><tspan
+         id="tspan1024-9"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+         y="35.989723"
+         x="153.39227"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:IRANSans;-inkscape-font-specification:IRANSans;text-align:end;text-anchor:end;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+       x="105.92306"
+       y="28.981823"
+       id="text1022-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan1020-3-5"
+         x="105.92306"
+         y="28.981823"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583">منتظر</tspan><tspan
+         sodipodi:role="line"
+         x="105.92306"
+         y="36.03738"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+         id="tspan1024-9-9" /></text>
+    <text
+       id="text1022-0-6-0"
+       y="28.775515"
+       x="53.00481"
+       style="font-size:5.64444px;line-height:1.25;font-family:IRANSans;-inkscape-font-specification:IRANSans;text-align:end;text-anchor:end;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+         y="28.775515"
+         x="53.00481"
+         id="tspan1020-3-5-7"
+         sodipodi:role="line">رهگیری</tspan><tspan
+         id="tspan1024-9-9-4"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+         y="35.83107"
+         x="53.00481"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:IRANSans;-inkscape-font-specification:IRANSans;text-align:end;text-anchor:end;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+       x="12.357558"
+       y="28.721392"
+       id="text1022-0-6-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan1020-3-5-7-3"
+         x="12.357558"
+         y="28.721392"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583">تحویل</tspan><tspan
+         sodipodi:role="line"
+         x="12.357558"
+         y="35.776947"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+         id="tspan1024-9-9-4-0" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:IRANSans;-inkscape-font-specification:IRANSans;text-align:end;text-anchor:end;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+       x="153.51295"
+       y="28.470118"
+       id="text1022-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan1020-3-0"
+         x="153.51295"
+         y="28.470118"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583" /><tspan
+         sodipodi:role="line"
+         x="153.51295"
+         y="35.525673"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+         id="tspan1024-9-2">‌سفارش</tspan></text>
+    <text
+       id="text1022-3"
+       y="28.276365"
+       x="198.72099"
+       style="font-size:5.64444px;line-height:1.25;font-family:IRANSans;-inkscape-font-specification:IRANSans;text-align:end;text-anchor:end;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+         y="28.276365"
+         x="198.72099"
+         id="tspan1020-7"
+         sodipodi:role="line" /><tspan
+         id="tspan1024-90"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+         y="35.331921"
+         x="198.72099"
+         sodipodi:role="line">خرید</tspan></text>
+    <text
+       id="text1022-0-6-8"
+       y="28.394545"
+       x="105.13213"
+       style="font-size:5.64444px;line-height:1.25;font-family:IRANSans;-inkscape-font-specification:IRANSans;text-align:end;text-anchor:end;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+         y="28.394545"
+         x="105.13213"
+         id="tspan1020-3-5-6"
+         sodipodi:role="line" /><tspan
+         id="tspan1024-9-9-5"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+         y="35.4501"
+         x="105.13213"
+         sodipodi:role="line">ارسال</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:IRANSans;-inkscape-font-specification:IRANSans;text-align:end;text-anchor:end;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+       x="52.939007"
+       y="28.657619"
+       id="text1022-0-6-0-9"><tspan
+         sodipodi:role="line"
+         id="tspan1020-3-5-7-9"
+         x="52.939007"
+         y="28.657619"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583" /><tspan
+         sodipodi:role="line"
+         x="52.939007"
+         y="35.713177"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+         id="tspan1024-9-9-4-1">مرسوله</tspan></text>
+    <text
+       id="text1022-0-6-0-6-1"
+       y="28.796253"
+       x="12.67854"
+       style="font-size:5.64444px;line-height:1.25;font-family:IRANSans;-inkscape-font-specification:IRANSans;text-align:end;text-anchor:end;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+         y="28.796253"
+         x="12.67854"
+         id="tspan1020-3-5-7-3-4"
+         sodipodi:role="line" /><tspan
+         id="tspan1024-9-9-4-0-7"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#9a4121;fill-opacity:1;stroke-width:0.264583"
+         y="35.85181"
+         x="12.67854"
+         sodipodi:role="line">مرسوله</tspan></text>
+  </g>
+</svg>

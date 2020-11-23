@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" width="100%" viewBox="0 0 512 256">
+<defs><linearGradient id="c1" gradientUnits="userSpaceOnUse" spreadMethod="pad" x1="0" y1="0" x2="0" y2="128">
+    <stop offset="0" stop-color="#2dd36f">
+    <animate id="a1" attributeName="stop-color" values="#2dd36f; #9a4121" begin="0; a2.end" dur="3s" />
+    <animate id="a2" attributeName="stop-color" values="#9a4121; #2dd36f" begin="a1.end" dur="3s" />
+    </stop>
+    <stop offset="1" stop-color="#9a4121">
+    <animate attributeName="stop-color" values="#9a4121; #2dd36f" begin="0; a2.end" dur="3s" />
+    <animate attributeName="stop-color" values="#2dd36f; #9a4121" begin="a1.end" dur="3s" />
+    </stop>
+</linearGradient>
+</defs>
+<path fill="url(#c1)" d="m0,0l512,0l0,200c-256,-128 -256,128 -512,0l0,-256z" fill-rule="evenodd" stroke="null" />
+</svg>

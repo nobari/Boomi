@@ -1,0 +1,29 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="514" width="514" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_13">
+   <g stroke="null" transform="matrix(12.632461604045556,0,0,12.632461604045556,-8.864014480204311,-21.306352870890464) " fill="none" id="svg_6">
+    <path stroke="null" fill="#805333" id="Shape"/>
+    <path stroke="null" fill="#805333" d="m38.473659,29.466417l-0.22,1.08c-1.28989,6.56277 -7.04167,11.29657 -13.73,11.3l-7,0c-6.70337,0.01571 -12.47722,-4.72245 -13.77,-11.3l-0.22,-1.08l34.94,0z" id="Shape"/>
+    <path stroke="null" fill="#cb8252" d="m1.003659,18.846417l0,4.62c0,6.81 9,12.38 20,12.38s20,-5.52 20,-12.33l0,-4.67l-40,0z" id="Shape"/>
+    <path stroke="null" fill="#cf976a" d="m16.173659,7.206417c-8.69,1.29 -15.17,6.01 -15.17,11.64c0,6.66 9,12.06 20,12.06c9.32,0 17.15,-3.84 19.37,-9c2.36,-5.53 -2,-10.36 -7.76,-12.82l-16.44,-1.88z" id="Shape"/>
+    <path stroke="null" fill="#e2832f" d="m36.503659,20.846417c-1.78,3.45 -8,6 -15.5,6s-13.72,-2.55 -15.5,-6c-0.11691,-0.2326 -0.21717,-0.4732 -0.3,-0.72c2.78,-1.74 7.09,-5 7.8,-8.2c1,-4.46 8.86,-9.57 13,-9c4.84,0.63 7.38,7.86 9.91,13.06c0.15,0.31 0.88,1.79 1,1.86c0.24305,1.0161 0.09678,2.08638 -0.41,3z" id="Shape"/>
+    <path stroke="null" fill="#805333" d="m13.003659,11.926417c-0.72,3.2 -5,6.47 -7.8,8.2c-1.27,-4.11 3.6,-7 7.8,-8.2z" id="Shape"/>
+    <circle stroke="null" r="1" fill="#f29c1f" cy="11.846417" cx="20.003659" id="Oval"/>
+    <circle stroke="null" r="1" fill="#f29c1f" cy="16.846417" cx="28.003659" id="Oval"/>
+    <circle stroke="null" r="1" fill="#f29c1f" cy="21.846417" cx="22.003659" id="Oval"/>
+    <circle stroke="null" r="1" fill="#f29c1f" cy="20.846417" cx="14.003659" id="Oval"/>
+    <circle stroke="null" r="1" fill="#f29c1f" cy="8.846417" cx="26.003659" id="Oval"/>
+   </g>
+  </g>
+ </g>
+</svg>

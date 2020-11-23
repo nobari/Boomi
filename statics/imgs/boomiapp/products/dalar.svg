@@ -1,0 +1,84 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="514" width="514" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_69">
+   <g stroke="null" transform="matrix(1.051736080475708,0,0,1.051736080475708,-128.4314923486889,-91.46720463379751) " id="svg_25">
+    <g stroke="null" id="svg_26">
+     <path stroke="null" id="svg_27" fill="#91b945" d="m500.995885,162.612611l0,-24l-256,0l0,24c-17.673,0 -32,14.327 -32,32l0,344c0,17.673 14.327,32 32,32l256,0c17.673,0 32,-14.327 32,-32l0,-344c0,-17.673 -14.327,-32 -32,-32z"/>
+    </g>
+    <g stroke="null" id="svg_28">
+     <g stroke="null" id="svg_29">
+      <path stroke="null" id="svg_30" fill="#69a041" d="m244.995885,138.612611l256,0l0,24l-256,0l0,-24z"/>
+     </g>
+     <g stroke="null" id="svg_31">
+      <path stroke="null" id="svg_32" fill="#69a041" d="m372.995885,538.612611l-160,0c0,17.673 14.327,32 32,32l256,0c17.673,0 32,-14.327 32,-32l0,-344l-152,0c-4.418,0 -8,3.582 -8,8l0,336z"/>
+     </g>
+    </g>
+    <g stroke="null" id="svg_33">
+     <path stroke="null" id="svg_34" fill="#fabe19" d="m500.995885,90.612611l-256,0c-4.418,0 -8,3.582 -8,8l0,32c0,4.418 3.582,8 8,8l256,0c4.418,0 8,-3.582 8,-8l0,-32c0,-4.418 -3.582,-8 -8,-8z"/>
+    </g>
+    <g stroke="null" id="svg_35">
+     <path stroke="null" id="svg_36" fill="#f5871e" d="m372.995885,138.612611l128,0c4.418,0 8,-3.582 8,-8l0,-32l-128,0c-4.418,0 -8,3.582 -8,8l0,32z"/>
+    </g>
+    <g stroke="null" id="svg_37">
+     <path stroke="null" id="svg_38" fill="#fabe19" d="m212.995885,250.612611l320,0l0,224l-320,0l0,-224z"/>
+    </g>
+    <g stroke="null" id="svg_39">
+     <path stroke="null" id="svg_40" fill="#f5871e" d="m372.995885,250.612611l160,0l0,224l-160,0l0,-224z"/>
+    </g>
+    <g stroke="null" id="svg_41">
+     <circle stroke="null" id="svg_42" r="112" fill="#d7e6e6" cy="362.612611" cx="372.995885"/>
+    </g>
+    <g stroke="null" id="svg_43">
+     <circle stroke="null" id="svg_44" r="12" fill="#69a041" cy="214.612611" cx="328.995885"/>
+    </g>
+    <g stroke="null" id="svg_45">
+     <circle stroke="null" id="svg_46" r="12" fill="#69a041" cy="503.945611" cx="224.995885"/>
+    </g>
+    <g stroke="null" id="svg_47">
+     <circle stroke="null" id="svg_48" r="12" fill="#4b8c41" cy="222.612611" cx="488.995885"/>
+    </g>
+    <g stroke="null" id="svg_49">
+     <circle stroke="null" id="svg_50" r="8" fill="#69a041" cy="226.612611" cx="260.995885"/>
+    </g>
+    <g stroke="null" id="svg_51">
+     <circle stroke="null" id="svg_52" r="8" fill="#69a041" cy="530.612611" cx="300.995885"/>
+    </g>
+    <g stroke="null" id="svg_53">
+     <circle stroke="null" id="svg_54" r="8" fill="#4b8c41" cy="514.612611" cx="444.995885"/>
+    </g>
+    <g stroke="null" id="svg_55">
+     <path stroke="null" id="svg_56" fill="#4b8c41" d="m365.397885,418.440611l-30.163,0.172c-4.846,0.028 -9.501,-1.885 -12.927,-5.312c-3.401,-3.401 -5.312,-8.014 -5.312,-12.824l0,-29.821c0,-44.183 35.817,-80 80,-80l29.799,0c4.824,0 9.451,1.916 12.862,5.328c3.418,3.418 5.335,8.055 5.328,12.888l-0.042,29.684c-0.063,43.961 -35.585,79.635 -79.545,79.885z"/>
+    </g>
+    <g stroke="null" id="svg_57">
+     <path stroke="null" id="svg_58" fill="#69a041" d="m439.656885,295.983611l-0.016,-0.016c-3.415,-3.415 -8.046,-5.333 -12.876,-5.333l-29.769,0c-44.183,0 -80,35.817 -80,80l0,29.769c0,4.829 1.918,9.461 5.333,12.876l117.328,-117.296z"/>
+    </g>
+    <g stroke="null" id="svg_59">
+     <path stroke="null" id="svg_60" fill="#91b945" d="m308.995885,430.612611c-1.024,0 -2.047,-0.391 -2.829,-1.172c-1.562,-1.562 -1.562,-4.095 0,-5.657l130.646,-130.645c1.561,-1.562 4.096,-1.562 5.656,0c1.563,1.562 1.563,4.095 0,5.657l-130.644,130.645c-0.782,0.781 -1.806,1.172 -2.829,1.172z"/>
+    </g>
+    <g stroke="null" id="svg_61">
+     <circle stroke="null" id="svg_62" r="10.667" fill="#91b945" cy="317.279611" cx="375.662885"/>
+    </g>
+    <g stroke="null" id="svg_63">
+     <path stroke="null" id="svg_64" fill="#afd763" d="m244.995885,186.612611c-4.418,0 -8,3.582 -8,8l0,56l16,0l0,-56c0,-4.418 -3.582,-8 -8,-8z"/>
+    </g>
+    <g stroke="null" id="svg_65">
+     <path stroke="null" id="svg_66" fill="#afd763" d="m236.995885,474.612611l16,0l0,64l-16,0l0,-64z"/>
+    </g>
+    <g stroke="null" id="svg_67">
+     <path stroke="null" id="svg_68" fill="#ffdc37" d="m236.995885,250.612611l16,0l0,224l-16,0l0,-224z"/>
+    </g>
+   </g>
+  </g>
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ </g>
+</svg>
