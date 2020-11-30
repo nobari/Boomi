@@ -1,6 +1,6 @@
 {
   "name": "nobari",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Talented => mailto:jobs@sevenapp.co",
   "main": "index.js",
   "scripts": {
