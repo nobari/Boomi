@@ -301,6 +301,7 @@
   "PASS_NEW_SUBTITLE": "تنظیم رمز عبور جدید",
   "PASS_SUBTITLE": "رمز عبور",
   "PASS_LENGTH_ERR": "رمز عبور حداقل ۶ کاراکتر است",
+  "PASS_LANG_ERR": "رمز عبور باید انگلیسی باشد",
   "SEARCHING": "در حال جستجو …",
   "NOTFOUND": "موردی یافت نشد",
   "NOTFOUND_SAFIR": "سفیر بومی یافت نشد",
