@@ -30,7 +30,7 @@
 	<rect x="-1.1051" y="240.9" width="514.96" height="272.95"
 		style="fill:url(#linearGradient12765);paint-order:markers fill stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.3" />
 	<rect x="-1.1051" y="-.65091" width="514.96" height="241.56">
-		<animate attributeName="fill" values="92eaff;1d1f2f;92eaff" dur="7s" repeatCount="indefinite" />
+		<animate attributeName="fill" values="#92eaff;#1d1f2f;#92eaff" dur="7s" repeatCount="indefinite" />
 	</rect>
 	<path
 		d="m236.1 241.03-38.82 0.01-169.71 0.03-28.671-0.16977c40.819-46.2 63.706-73.658 93.671-105.9l47.31 48.7c2.26 2.35 6.02 2.4 8.32 0.09 3.84-3.84 7.32-7.34 7.36-7.39l9.48-9.48z"
