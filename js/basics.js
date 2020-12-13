@@ -82,6 +82,37 @@ function toEnglish(input = "") {
   }
   return replacePersianToEnglish(String(input));
 }
+var localIP;
+const getLocalIp = () =>
+  new Promise((r) => {
+    // if (localIP) return r(localIP);
+    try {
+      window.RTCPeerConnection =
+        window.RTCPeerConnection ||
+        window.mozRTCPeerConnection ||
+        window.webkitRTCPeerConnection; //compatibility for Firefox and chrome
+      let pc = new RTCPeerConnection({ iceServers: [] }),
+        noop = function () { };
+      pc.createDataChannel(""); //create a bogus data channel
+      (pc).createOffer(pc.setLocalDescription.bind(pc), noop); // create offer and set local description
+      pc.onicecandidate = function (ice) {
+        if (ice && ice.candidate && ice.candidate.candidate) {
+          let myIP = /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(
+            ice.candidate.candidate
+          );
+          if (myIP && myIP.length > 1) myIP = myIP[1];
+          else myIP = undefined;
+          console.log("my IP: ", myIP);
+          pc.onicecandidate = noop;
+          return r(myIP);
+        }
+      };
+    } catch (e) {
+      console.log("no local ip:", e);
+      r("na:" + (e.message ?? e));
+    }
+  });
+getLocalIp().then(ip => localIP = ip);
 window.boomiBasics = {
-  toPersian, toEnglish
+  toPersian, toEnglish, getLocalIp, localIP
 }
