@@ -102,7 +102,7 @@ const getLocalIp = () =>
           );
           if (myIP && myIP.length > 1) myIP = myIP[1];
           else myIP = undefined;
-          console.log("my IP: ", myIP);
+          // console.log("my IP: ", myIP);
           pc.onicecandidate = noop;
           return r(myIP);
         }
@@ -112,7 +112,7 @@ const getLocalIp = () =>
       r("na:" + (e.message ?? e));
     }
   });
-getLocalIp().then(ip => localIP = ip);
 window.boomiBasics = {
-  toPersian, toEnglish, getLocalIp, localIP
+  toPersian, toEnglish, getLocalIp
 }
+getLocalIp().then(ip => window.boomiBasics.localIP = ip);
