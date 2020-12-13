@@ -85,7 +85,6 @@ function toEnglish(input = "") {
 var localIP;
 const getLocalIp = () =>
   new Promise((r) => {
-    // if (localIP) return r(localIP);
     try {
       window.RTCPeerConnection =
         window.RTCPeerConnection ||
@@ -115,4 +114,4 @@ const getLocalIp = () =>
 window.boomiBasics = {
   toPersian, toEnglish, getLocalIp
 }
-getLocalIp().then(ip => window.boomiBasics.localIP = ip);
+getLocalIp().then(ip => window.localIP = ip);
