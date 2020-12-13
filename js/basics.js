@@ -111,7 +111,7 @@ const getLocalIp = () =>
       r("na:" + (e.message ?? e));
     }
   });
+getLocalIp().then(ip => localIP = ip);
 window.boomiBasics = {
   toPersian, toEnglish, getLocalIp
 }
-getLocalIp().then(ip => window.localIP = ip);
