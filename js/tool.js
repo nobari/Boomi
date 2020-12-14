@@ -940,6 +940,7 @@ const prettyStringify = (obj) => {
       // Store value in our collection
       cache.push(value);
     }
+    if (typeof value === "function") return;
     return value;
   }, 2);
   cache = null; //
@@ -960,6 +961,72 @@ const prettyStringify = (obj) => {
     return '<span class="' + cls + '">' + match + '</span>';
   });
 }
+const dragElement = (elmnt) => {
+  var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
+  const clearer = elmnt.querySelector(".header .clearer");
+  if (clearer) {
+    clearer.onclick = function (e) {
+      elmnt.querySelector(".body").innerHTML = "";
+    }
+  }
+  const closer = elmnt.querySelector(".header .closer");
+  if (closer) {
+    closer.onclick = function (e) {
+      elmnt.classList.toggle("closed")
+    }
+  }
+  const opacer = elmnt.querySelector(".header .opacer");
+  if (opacer) {
+    opacer.onclick = function (e) {
+      elmnt.classList.toggle("opaced")
+    }
+  }
+  const header = elmnt.querySelector(".header .movable");
+  if (header) {
+    // if present, the header is where you move the DIV from:
+    header.onmousedown = dragMouseDown;
+    header.ontouchstart = dragMouseDown;
+  } else {
+    // otherwise, move the DIV from anywhere inside the DIV:
+    elmnt.onmousedown = dragMouseDown;
+    elmnt.ontouchstart = dragMouseDown;
+  }
+
+  function dragMouseDown(e) {
+    loc = e && e.touches && e.touches.length ? e.touches[0] : (e || window.event);
+    e = e || window.event;
+    e.preventDefault();
+    // get the mouse cursor position at startup:
+    pos3 = loc.clientX;
+    pos4 = loc.clientY;
+    document.onmouseup = closeDragElement;
+    document.ontouchend = closeDragElement;
+    // call a function whenever the cursor moves:
+    document.onmousemove = elementDrag;
+    document.ontouchmove = elementDrag;
+  }
+
+  function elementDrag(e) {
+    loc = e && e.touches && e.touches.length ? e.touches[0] : (e || window.event);
+    e.preventDefault();
+    // calculate the new cursor position:
+    pos1 = pos3 - loc.clientX;
+    pos2 = pos4 - loc.clientY;
+    pos3 = loc.clientX;
+    pos4 = loc.clientY;
+    // set the element's new position:
+    elmnt.style.top = (elmnt.offsetTop - pos2) + "px";
+    elmnt.style.left = (elmnt.offsetLeft - pos1) + "px";
+  }
+
+  function closeDragElement() {
+    // stop moving when mouse button is released:
+    document.ontouchend = null,
+      document.ontouchmove = null,
+      document.onmouseup = null,
+      document.onmousemove = null;
+  }
+}
 window.boomiTools = {
-  getIcCity, melliCode, sheba, postalCode, cardNumber, getSheba, validSheba, prettyStringify
+  getIcCity, melliCode, sheba, postalCode, cardNumber, getSheba, validSheba, prettyStringify, dragElement
 }
