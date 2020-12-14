@@ -930,6 +930,36 @@ const getSheba = function (str) {
   }
   return result;
 };
+const prettyStringify = (obj) => {
+  var cache = [];
+  let json = JSON.stringify(obj, (key, value) => {
+    if (typeof value === 'object' && value !== null) {
+      // Duplicate reference found, discard key
+      if (cache.includes(value)) return;
+
+      // Store value in our collection
+      cache.push(value);
+    }
+    return value;
+  }, 2);
+  cache = null; //
+  json = json.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  return json.replace(/("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)/g, function (match) {
+    var cls = 'number';
+    if (/^"/.test(match)) {
+      if (/:$/.test(match)) {
+        cls = 'key';
+      } else {
+        cls = 'string';
+      }
+    } else if (/true|false/.test(match)) {
+      cls = 'boolean';
+    } else if (/null/.test(match)) {
+      cls = 'null';
+    }
+    return '<span class="' + cls + '">' + match + '</span>';
+  });
+}
 window.boomiTools = {
-  getIcCity, melliCode, sheba, postalCode, cardNumber, getSheba, validSheba
+  getIcCity, melliCode, sheba, postalCode, cardNumber, getSheba, validSheba, prettyStringify
 }
