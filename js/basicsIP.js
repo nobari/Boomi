@@ -82,7 +82,7 @@ function toEnglish(input = "") {
   }
   return replacePersianToEnglish(String(input));
 }
-var localIP = "";
+var localIP;
 const getLocalIp = () =>
   new Promise((r) => {
     try {
