@@ -993,7 +993,7 @@ const dragElement = (elmnt) => {
   }
 
   function dragMouseDown(e) {
-    loc = e && e.touches && e.touches.length ? e.touches[0] : (e || window.event);
+    var loc = e && e.touches && e.touches.length ? e.touches[0] : (e || window.event);
     e = e || window.event;
     e.preventDefault();
     // get the mouse cursor position at startup:
@@ -1007,7 +1007,7 @@ const dragElement = (elmnt) => {
   }
 
   function elementDrag(e) {
-    loc = e && e.touches && e.touches.length ? e.touches[0] : (e || window.event);
+    var loc = e && e.touches && e.touches.length ? e.touches[0] : (e || window.event);
     e.preventDefault();
     // calculate the new cursor position:
     pos1 = pos3 - loc.clientX;
