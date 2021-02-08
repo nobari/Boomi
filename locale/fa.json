@@ -134,6 +134,8 @@
   "UNIT_mesqal": "مثقال",
   "UNIT_sut": "سوت",
   "UNIT_qirat": "قیراط",
+  "UNIT_pair": "جفت",
+  "UNIT_quantity": "عدد",
   "TIME_CURRENCY": "روز",
   "ORDER_LATEST_STATE": "آخرین وضعیت",
   "ORDERS_STATE_PRD": "محصول بومی :",
