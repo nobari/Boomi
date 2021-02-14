@@ -233,7 +233,7 @@ class MediaRecorder {
  * The MIME type that is being used for recording.
  * @type {string}
  */
-MediaRecorder.prototype.mimeTmimeType = "audio/mpeg";//'audio/wav'
+MediaRecorder.prototype.mimeType = "audio/mpeg";//'audio/wav'
 
 /**
  * Returns `true` if the MIME type specified is one the polyfill can record.
