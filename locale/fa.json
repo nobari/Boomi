@@ -292,7 +292,7 @@
   "PRODUCT_PRICE_ASK_BUYER": "استعلام کنید",
   "PRODUCT_CARD_NOPRICE": "قیمت به روز",
   "PRODUCT_CARD_NOPRICE_SUB": "از فروشنده استعلام کنید",
-  "INSTANT_DELIVERY": "ارسال فوری",
+  "INSTANT_DELIVERY": "آماده ارسال",
   "DELIVERY_TIME": "آماده ارسال از {day} روز دیگر",
   "REPLY_AUDIO": "پیام صوتی",
   "REPLY_VIDEO": "ویدیو",
