@@ -1,0 +1,18 @@
+{
+  "title": "بومی‌اپ در رسانه‌ها",
+  "header": "اپلیکیشن بومی‌اپ با هدف آسان‌سازی و ایمن‌سازی فرآیند خرید و فروش‌های اینستاگرامی طراحی و پیاده‌سازی شده‌است.",
+  "subheader": "محصولات محلی و خانگی که حتی توی بازار هم نمی‌تونید پیدا کنید رو، در اینجا با خیال راحت بخرید و بفروشید.",
+  "footer": "بومی‌اپ در مركز توسعه تجارت الكترونیكی وزارت صنعت، معدن و تجارت شناسایی شده و دارای نماد اعتماد الكترونیكی می باشد.",
+  "body": [
+    {
+      "id": "news",
+      "title": "رسانه‌های خبری",
+      "msg": "<p>در در رسانه‌ها و خبرگزاری‌های مطرح و معتبر و همچنین توسط دبیرخانه برنامه توسعه زیست بوم شرکت های خلاق در معاونت علمی و فناوری ریاست جمهوری برنامه بومی‌اپ توضیح داده شده است <sup class='reference'><a target='_blank' href='https://ircreative.isti.ir/contents.php?cntid=949'>[شرکت های خلاق]</a></sup> <sup class='reference'><a target='_blank' href='https://khabaronline.ir/news/1581853'>[خبرآنلاین]</a></sup> <sup class='reference'><a target='_blank' href='https://eghtesaad24.ir/000bXj'>[اقتصاد۲۴]</a></sup>.</p>"
+    },
+    {
+      "id": "wiki",
+      "title": "دانشنامهٔ آزاد",
+      "msg": "<p>در دانشنامهٔ آزاد ویکی‌پدیا در مقالات متعددی پروژه و برنامه بومی‌اپ مطرح شده است <sup class='reference'><a target='_blank' href='https://fa.wikipedia.org/wiki/%D8%A7%D8%AA%D8%B3%DB%8C'>[ETSY]</a></sup> <sup class='reference'><a target='_blank' href='https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1'>[بازار]</a></sup> <sup class='reference'><a target='_blank' href='https://fa.wikipedia.org/wiki/%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA_%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88%D9%86%DB%8C%DA%A9'>[تجارت الکترونیک]</a></sup>.</p>"
+    }
+  ]
+}
